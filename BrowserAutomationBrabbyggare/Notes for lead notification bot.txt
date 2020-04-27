@@ -1,0 +1,5 @@
+"Lead ID" <-Already filled out
+"Lead Status" <- Already filled out
+"Complete Lead URL" <-Already filled out
+"Email Forwarded"
+"Lead Name" <-Already filled out
